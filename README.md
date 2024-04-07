@@ -1,31 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>POKÉDEX</title>
-</head>
-<body>
-    <h1>POKÉDEX</h1>
+# POKÉDEX
 
-    <p>Este é um projeto simples, onde eu criei uma Pokédex com base no vídeo do canal: Manual do Dev.</p>
+Este é um projeto simples, onde eu criei uma Pokédex com base no vídeo do canal: Manual do Dev.
 
-    <h2>Tecnologias Usadas</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ul>
+## Tecnologias Usadas
+- HTML
+- CSS
+- JavaScript
 
-    <h2>LINK do projeto</h2>
-    <a href="https://jotacemartins.github.io/pokedex-main/">https://jotacemartins.github.io/pokedex-main/</a>
+## LINK do projeto
+[https://jotacemartins.github.io/pokedex-main/](https://jotacemartins.github.io/pokedex-main/)
 
-    <h2>LINK do vídeo</h2>
-    <a href="https://www.youtube.com/watch?v=SjtdH3dWLa8">https://www.youtube.com/watch?v=SjtdH3dWLa8</a>
+## LINK do vídeo
+[https://www.youtube.com/watch?v=SjtdH3dWLa8](https://www.youtube.com/watch?v=SjtdH3dWLa8)
 
-    <h2>Etiquetas</h2>
-    <p>Adicione etiquetas de algum lugar, como: <a href="https://shields.io/">shields.io</a></p>
-    <p><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"> <img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License"> <img src="https://img.shields.io/badge/license-AGPL-blue.svg" alt="AGPL License"></p>
+## Etiquetas
+Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
+- [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+- [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+- [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-    <h2>Screenshots</h2>
-    <img src="https://via.placeholder.com/468x30
+## Screenshots
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
