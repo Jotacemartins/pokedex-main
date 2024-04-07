@@ -20,4 +20,5 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 - [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![telapoke](https://github.com/Jotacemartins/pokedex-main/assets/144477471/24e9b764-a8f7-4ef7-b15f-6636d51990c8)
+pp+Screenshot+Here)
