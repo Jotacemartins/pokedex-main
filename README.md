@@ -21,4 +21,4 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 
 ## Screenshots
 ![telapoke](https://github.com/Jotacemartins/pokedex-main/assets/144477471/24e9b764-a8f7-4ef7-b15f-6636d51990c8)
-pp+Screenshot+Here)
+
