@@ -13,7 +13,7 @@ JavaScript
 * JavaScript
 
 
-# LINK do projeto: https://jotacemartins.github.io/pokedex-main/
+# link do projeto: https://jotacemartins.github.io/pokedex-main/
 
 
 LINK VIDEO: https://www.youtube.com/watch?v=SjtdH3dWLa8
